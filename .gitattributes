@@ -1,0 +1,6 @@
+# Normalize line endings on checkout to prevent CRLF from breaking
+# shell scripts run inside Linux containers on Windows hosts.
+* text=auto eol=lf
+
+*.sh    text eol=lf
+*.bash  text eol=lf
