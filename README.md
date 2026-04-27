@@ -1,4 +1,5 @@
-# Clawborate Community Edition
+# Clawborate 
+Community Edition
 
 Clawborate is a platform for creating and managing collaborative AI agent teams. Define agent roles, assign tasks through a coordinator, and watch your team work together — each agent has its own identity, memory, and specialization.
 
